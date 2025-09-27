@@ -48,9 +48,9 @@ Execute the program using runserver command.
         <tr>
             <th bgcolor="blue">8am-10am</th>
             
-            <td colpan="2">Free slot</td>
+            <td colpan="2" align="center">Free slot</td>
             <td>FWAD</td>
-            <td colspan="2">FREE SLOT</td>
+            <td colspan="2" align="center">FREE SLOT</td>
             <td>FWAD</td>
         </tr>
         <tr>
@@ -59,21 +59,23 @@ Execute the program using runserver command.
             <td>C.ENGLISH</td>
             <td>FWAD</td>
             <td>C.ENGLISH</td>
-            <td colspan="2">FREE</td>
+            <td colspan="2" align="center">FREE</td>
         </tr>
         <tr>
             <th bgcolor="blue">12pm-1pm</th>
-            <td colspan="6">LUNCH</td>
+            <center>
+            <td colspan="6" align="center">LUNCH</td>
+            </center>
         </tr>
         <tr>
             <th bgcolor="blue">1pm-3pm</th>
-            <td colspan="2">python</td>
+            <td colspan="2" align="center">python</td>
             <td>FREE SLOT</td>
-            <td colspan="2">FWAD</td>
+            <td colspan="2" align="center">FWAD</td>
         </tr>
         <tr>
             <th bgcolor="blue">3pm-5pm</th>
-            <td colspan="3">C.ENGLISH</td>
+            <td colspan="3" align="center">C.ENGLISH</td>
             <td>PYTHON</td>
             <td>FREE SLOT</td>
             <td>C.ENGLISH</td>
@@ -110,7 +112,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-09-20 130413.png>)
+![alt text](<Screenshot 2025-09-27 131159.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
